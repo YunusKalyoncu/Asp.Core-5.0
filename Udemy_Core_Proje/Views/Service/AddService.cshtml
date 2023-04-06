@@ -1,0 +1,29 @@
+﻿@model  Service
+@{
+    ViewData["Title"] = "AddService";
+    Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
+}
+
+<h1>Service Ekleme  Sayfası</h1>
+
+@using (Html.BeginForm("AddService", "Service", FormMethod.Post))
+
+{
+
+    <br />
+    @Html.Label("Service Başlığı")
+    @Html.TextBoxFor(x => x.Title, new { @class = "form-control" })
+    <br />
+    @Html.Label("Resim ")
+    @Html.TextBoxFor(x => x.ImageUrl, new { @class = "form-control" })
+   
+    <br />
+   
+    <button class=" btn btn-primary">Kayıt Et</button>
+    <button href="/Service/Index/" class=" btn btn-outline-danger">Çıkış</button>
+
+
+
+
+}
+

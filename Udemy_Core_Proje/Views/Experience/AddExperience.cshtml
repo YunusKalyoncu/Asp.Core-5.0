@@ -1,0 +1,49 @@
+﻿@model Experience
+@{
+    ViewData["Title"] = "AddExperience";
+    Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
+}
+
+<h1>Deneyim Ekleme  Sayfası</h1>
+
+@using (Html.BeginForm("AddExperience", "Experience", FormMethod.Post))
+
+{
+
+    <div class="col-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+
+                <p class="card-description"> Yeni Deyim Ekleme Paneli </p>
+                <form class="forms-sample">
+                    <div class="form-group">
+                        <label>Başlık</label>
+                        <input type="text" class="form-control" name="Name" placeholder="Başlık">
+                    </div>
+                    <div class="form-group">
+                        <label>Tarih</label>
+                        <input type="date" class="form-control" name="Date" placeholder="Tarih">
+                    </div>
+                    <div class="form-group">
+                        <label>Resim</label>
+                        <input type="text" class="form-control" name="ImageUrl" placeholder="Resim">
+                    </div>
+
+
+
+                    <div class="form-group">
+                        <label for="exampleTextarea1">Açıklama</label>
+                        <textarea class="form-control" name="Description" rows="5"></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary mr-2">Ekle</button>
+                    <button href="/Experience/Index/" class="btn btn-dark">Çıkış</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+
+
+}
+
+<script src="~/corona-free-dark-bootstrap-admin-template-1.0.0/template/assets/vendors/js/vendor.bundle.base.js"></script>

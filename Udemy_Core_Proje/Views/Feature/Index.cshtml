@@ -1,0 +1,27 @@
+﻿@model Feature
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
+}
+<h1>Feature Düzenleme Sayfası</h1>
+
+@using (Html.BeginForm("Index", "Feature", FormMethod.Post))
+
+{
+    @Html.HiddenFor(x => x.FeatureID)
+    <br />
+    @Html.Label("Başlık")
+    @Html.TextBoxFor(x => x.Title, new { @class = "form-control" })
+    <br />
+    @Html.Label("Ad Soyad")
+    @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+    <br />
+    @Html.Label("Pozisyon")
+    @Html.TextBoxFor(x => x.Title, new { @class = "form-control" })
+    <br />
+    <button class=" btn btn-primary">Güncelle</button>
+
+
+
+}
+<script src="~/corona-free-dark-bootstrap-admin-template-1.0.0/template/assets/vendors/js/vendor.bundle.base.js"></script>

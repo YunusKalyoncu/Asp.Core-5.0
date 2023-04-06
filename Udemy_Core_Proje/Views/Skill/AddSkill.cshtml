@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewData["Title"] = "AddSkill";
+    Layout = "~/Views/Shared/_NewAdminLayout.cshtml";
+}
+
+<h1>Yetenek Ekleme Sayfası</h1>
+
+<form method="post" class="form-group">
+    <br /> <br />
+    @Html.Label("Yetenek Başlığı")
+    <input type="text" name="Title" class="form-control" />
+    <br />
+    <label>Değer</label>
+    <input type="text" name="Value" class="form-control" />
+    <br />
+    <button class="btn btn-primary">Kaydet</button>
+    <button href="/Skil/Index/" class=" btn btn-outline-danger">Çıkış</button>
+</form>
+
