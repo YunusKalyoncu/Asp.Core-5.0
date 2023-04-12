@@ -9,24 +9,24 @@
         {
             color = "preview-icon bg-success";
         }
-        if (item.Status == "Yeni Video")
+        if (item.Status == "Yeni İşlem")
         {
             color = "preview-icon bg-warning";
         }
-        if (item.Status == "Konferans")
+        if (item.Status == "Yeni Proje")
         {
             color = "preview-icon bg-info";
         }
-        if (item.Status == "Yeni Konferans")
+        if (item.Status == "Bootcamp")
         {
             color = "preview-icon bg-info";
         }
-        if (item.Status == "Yeni Konferans")
+        if (item.Status == "Proje Öneri")
         {
             color = "preview-icon bg-info";
         }
 
-        <a class="dropdown-item preview-item">
+        <a class="dropdown-item preview-item" href="/Writer/Default/AnnouncementDetails/@item.ID">
             <div class="preview-thumbnail">
                 <div class="@color">
                     <i class="ti-info-alt mx-0"></i>

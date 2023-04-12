@@ -6641,11 +6641,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectPath": "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\DataAccessLayer\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\yunus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\DataAccessLayer\\obj\\",
+      "outputPath": "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yunus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6662,8 +6662,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\EntityLayer\\EntityLayer.csproj"
+            "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\Udemy_Core_Proje\\Udemy_Core_Proje.csproj": {}
+    "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\Udemy_Core_Proje\\Udemy_Core_Proje.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\BusinessLayer\\BusinessLayer.csproj": {
+    "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\BusinessLayer\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\BusinessLayer\\BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\BusinessLayer\\BusinessLayer.csproj",
         "projectName": "BusinessLayer",
-        "projectPath": "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\BusinessLayer\\BusinessLayer.csproj",
+        "projectPath": "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\BusinessLayer\\BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\yunus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\BusinessLayer\\obj\\",
+        "outputPath": "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yunus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj"
+              "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\EntityLayer\\EntityLayer.csproj"
+              "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -103,14 +103,14 @@
         }
       }
     },
-    "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\yunus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yunus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -127,8 +127,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\EntityLayer\\EntityLayer.csproj"
+              "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -191,14 +191,14 @@
         }
       }
     },
-    "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\EntityLayer\\EntityLayer.csproj": {
+    "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\EntityLayer\\EntityLayer.csproj",
+        "projectPath": "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\EntityLayer\\EntityLayer.csproj",
         "packagesPath": "C:\\Users\\yunus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yunus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -275,14 +275,14 @@
         }
       }
     },
-    "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\Udemy_Core_Proje\\Udemy_Core_Proje.csproj": {
+    "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\Udemy_Core_Proje\\Udemy_Core_Proje.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\Udemy_Core_Proje\\Udemy_Core_Proje.csproj",
+        "projectUniqueName": "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\Udemy_Core_Proje\\Udemy_Core_Proje.csproj",
         "projectName": "Udemy_Core_Proje",
-        "projectPath": "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\Udemy_Core_Proje\\Udemy_Core_Proje.csproj",
+        "projectPath": "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\Udemy_Core_Proje\\Udemy_Core_Proje.csproj",
         "packagesPath": "C:\\Users\\yunus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\Udemy_Core_Proje\\obj\\",
+        "outputPath": "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\Udemy_Core_Proje\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yunus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -299,14 +299,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\BusinessLayer\\BusinessLayer.csproj": {
-                "projectPath": "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\BusinessLayer\\BusinessLayer.csproj"
+              "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\BusinessLayer\\BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\BusinessLayer\\BusinessLayer.csproj"
               },
-              "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj"
+              "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\EntityLayer\\EntityLayer.csproj"
+              "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }

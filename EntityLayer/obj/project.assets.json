@@ -6619,11 +6619,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\EntityLayer\\EntityLayer.csproj",
+      "projectUniqueName": "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\EntityLayer\\EntityLayer.csproj",
       "projectName": "EntityLayer",
-      "projectPath": "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\EntityLayer\\EntityLayer.csproj",
+      "projectPath": "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\EntityLayer\\EntityLayer.csproj",
       "packagesPath": "C:\\Users\\yunus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\EntityLayer\\obj\\",
+      "outputPath": "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\EntityLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yunus\\AppData\\Roaming\\NuGet\\NuGet.Config",

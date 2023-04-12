@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kpFXRsYplRJMDMQQsq44hr6b1R1sIqPBHWutzD4Xvc+J9L7dssSRyZZYljUHzbr5NxyCqzhjev06q+xKreMyvQ==",
+  "dgSpecHash": "1WDdR4wSXR1npDqvDBHPxRoRRJmxRLdXoFuT48K+cw27IYMkd8XjiUAOpGtMVVkuTqwaWaxl7chzBgZXrrXsRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yunus\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
     "C:\\Users\\yunus\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",

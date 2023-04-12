@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y5LOX0jlvpCfUA3pSCfL1fLiM1N8ipjgWv1OhWFaXHgubyPS8Teiraebm67X2yjxQJAbVQJQ1Ml87YGfmDIiqQ==",
+  "dgSpecHash": "R6813hUkBmzN1EY0EClabpjKKamvFU97hxcb079BAB9PoZx632m3TvrmFL8g3Eqmz/jvNPyaudK8j+fqIUZKvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\yunus\\source\\repos\\Udemy_Core_Proje\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\yunus\\source\\github dosyaları\\Asp.Core-5.0\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yunus\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\yunus\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
